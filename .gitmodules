@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AcrossTic"]
 	path = AcrossTic
 	url = https://github.com/cran/AcrossTic
-	shallow = true
-	registered = true
 [submodule "treeClust"]
 	path = treeClust
 	url = https://github.com/cran/treeClust
-	shallow = true
-	registered = true
